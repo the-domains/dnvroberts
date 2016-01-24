@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.0001052432
+  brandStrength: 0.4522319
+  lightness: 0.09145812
+  brandColors:
+    - '#1F1E1F'
+    - '#CFCFC5'
+    - '#90806E'
+    - '#654B3A'
+    - '#395BC6'
+  rhythmicContrast: 0.753004
+typography_spectrum: 0.2329749
+name: dnvRoberts
