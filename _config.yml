@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1344086
 color:
-  saturation: 0.8243728
+  saturation: 1
   brandStrength: 0.4522319
-  lightness: 0.9408602
+  lightness: 1
   brandColors:
     - '#1F1E1F'
     - '#CFCFC5'
     - '#90806E'
     - '#654B3A'
     - '#395BC6'
-  rhythmicContrast: 0.753004
+  rhythmicContrast: 0
+typography_spectrum: 0.1344086
 layout_spectrum: 0.1594982
 name: dnvRoberts
